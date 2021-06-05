@@ -941,6 +941,9 @@
 "@modules/maps@file:./modules/maps":
   version "1.0.0"
 
+"@modules/splash@file:./modules/splash":
+  version "1.0.0"
+
 "@modules/splash@file:./modules/splash/":
   version "1.0.0"
 
